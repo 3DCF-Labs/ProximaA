@@ -2,7 +2,7 @@
 
 **A 32B open-weight security assistant.** Trained specifically on cybersecurity data for the full defensive workflow: vulnerability detection, false-positive validation, patch verification, secure fixes, and security reasoning.
 
-Built by Yevhenii Molchanov, 3DCF Labs — https://github.com/3DCF-Labs
+Built by Yevh, 3DCF Labs
 
 - **Weights & GGUF:** [Hugging Face](https://huggingface.co/3DCF-Labs-org/ProximaA-1.0)
 - **License:** Apache-2.0 (see [`NOTICE.md`](NOTICE.md))
@@ -89,7 +89,7 @@ LICENSE-MIT.txt        MIT (for components that require it — see NOTICE.md)
 
 ```
 ProximaA 1.0
-Yevhenii Molchanov, 3DCF Labs
+Yevh, 3DCF Labs
 https://github.com/3DCF-Labs
 2026
 ```
